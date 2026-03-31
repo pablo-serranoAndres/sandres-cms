@@ -1,8 +1,6 @@
 # 📽️ SANDRES TV
 A streaming platform for family videos with a built-in CMS and Android app. Upload, organize, and share your family memories on a private platform with a streaming-style interface.
 
-## Proyects
-
 <table>
   <thead>
     <tr>

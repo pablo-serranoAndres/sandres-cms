@@ -7,7 +7,6 @@ A streaming platform for family videos with a built-in CMS and Android app. Uplo
   <thead>
     <tr>
       <th align="left" width="180">Repo</th>
-      <th align="center">Project</th>
       <th align="left">Description</th>
       <th align="left">Stack</th>
     </tr>
@@ -16,9 +15,6 @@ A streaming platform for family videos with a built-in CMS and Android app. Uplo
     <tr>
       <td width="180">
         <a href="https://github.com/pablo-serranoAndres/sandres-cms-front"><code>sandres-cms-front</code></a>
-      </td>
-      <td align="center" valign="middle" rowspan="2">
-        🐛<br/><strong>Greta</strong>
       </td>
       <td>Streaming de cine independiente y recomendaciones.</td>
       <td>

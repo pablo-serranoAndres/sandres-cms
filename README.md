@@ -1,8 +1,7 @@
-# 📌 Mis Proyectos
+# 📽️ SANDRES TV
+A streaming platform for family videos with a built-in CMS and Android app. Upload, organize, and share your family memories on a private platform with a streaming-style interface.
 
-Bienvenido al repositorio central. Aquí encontrarás todos mis proyectos organizados.
-
-## Proyectos
+## Proyects
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
@@ -10,13 +9,3 @@ Bienvenido al repositorio central. Aquí encontrarás todos mis proyectos organi
 | [🔗 Proyecto 2](https://github.com/tuusuario/proyecto2) | Breve descripción del proyecto | Python, FastAPI |
 | [🔗 Proyecto 3](https://github.com/tuusuario/proyecto3) | Breve descripción del proyecto | TypeScript, Next.js |
 
-## 📂 Categorías
-
-### Frontend
-- [Mi App React](https://github.com/tuusuario/react-app)
-
-### Backend  
-- [API REST](https://github.com/tuusuario/api-rest)
-
-### Herramientas
-- [CLI Tool](https://github.com/tuusuario/cli-tool)
